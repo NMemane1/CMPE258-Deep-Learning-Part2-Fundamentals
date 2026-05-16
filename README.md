@@ -7,18 +7,25 @@ tables) are saved right in the notebook — you can read them on GitHub without
 running anything yourself.
 
 For every notebook there's also a short **walkthrough** that explains it
-section by section, and a video where I talk through the code and outputs.
+section by section.
+
+## Video walkthrough
+
+I recorded one video that walks through all six notebooks, talking through the
+code and the outputs:
+
+**[Watch the full walkthrough](https://docs.google.com/videos/d/1mfHPylhUj8DrhpyJAZH_3cu2eN_P5gFBH5c3Az0blXA/edit?usp=sharing)**
 
 ## Notebooks
 
 | # | Topic | Notebook | Walkthrough | Video |
 |---|-------|----------|-------------|-------|
-| 1 | Classification & Regression Metrics | [open](01_classification_metrics/classification_metrics_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/01_classification_metrics/classification_metrics_tutorial.ipynb) | [walkthrough](01_classification_metrics/walkthrough.md) | _add YouTube link_ |
-| 2 | Hyperparameter Tuning | [open](02_hyperparameter_tuning/hyperparameter_tuning_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/02_hyperparameter_tuning/hyperparameter_tuning_tutorial.ipynb) | [walkthrough](02_hyperparameter_tuning/walkthrough.md) | _add YouTube link_ |
-| 3 | Optimizers for Deep Learning | [open](03_optimizers/optimizers_deep_learning_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/03_optimizers/optimizers_deep_learning_tutorial.ipynb) | [walkthrough](03_optimizers/walkthrough.md) | _add YouTube link_ |
-| 4 | Activation Functions | [open](04_activation_functions/activation_functions_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/04_activation_functions/activation_functions_tutorial.ipynb) | [walkthrough](04_activation_functions/walkthrough.md) | _add YouTube link_ |
-| 5 | CNN Fundamentals | [open](05_cnn_fundamentals/cnn_fundamentals_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/05_cnn_fundamentals/cnn_fundamentals_tutorial.ipynb) | [walkthrough](05_cnn_fundamentals/walkthrough.md) | _add YouTube link_ |
-| 6 | Modern CNN Architectures & Transfer Learning | [open](06_modern_cnn_architectures/modern_cnn_architectures_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/06_modern_cnn_architectures/modern_cnn_architectures_tutorial.ipynb) | [walkthrough](06_modern_cnn_architectures/walkthrough.md) | _add YouTube link_ |
+| 1 | Classification & Regression Metrics | [open](01_classification_metrics/classification_metrics_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/01_classification_metrics/classification_metrics_tutorial.ipynb) | [walkthrough](01_classification_metrics/walkthrough.md) | [watch](https://docs.google.com/videos/d/1mfHPylhUj8DrhpyJAZH_3cu2eN_P5gFBH5c3Az0blXA/edit?usp=sharing) |
+| 2 | Hyperparameter Tuning | [open](02_hyperparameter_tuning/hyperparameter_tuning_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/02_hyperparameter_tuning/hyperparameter_tuning_tutorial.ipynb) | [walkthrough](02_hyperparameter_tuning/walkthrough.md) | [watch](https://docs.google.com/videos/d/1mfHPylhUj8DrhpyJAZH_3cu2eN_P5gFBH5c3Az0blXA/edit?usp=sharing) |
+| 3 | Optimizers for Deep Learning | [open](03_optimizers/optimizers_deep_learning_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/03_optimizers/optimizers_deep_learning_tutorial.ipynb) | [walkthrough](03_optimizers/walkthrough.md) | [watch](https://docs.google.com/videos/d/1mfHPylhUj8DrhpyJAZH_3cu2eN_P5gFBH5c3Az0blXA/edit?usp=sharing) |
+| 4 | Activation Functions | [open](04_activation_functions/activation_functions_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/04_activation_functions/activation_functions_tutorial.ipynb) | [walkthrough](04_activation_functions/walkthrough.md) | [watch](https://docs.google.com/videos/d/1mfHPylhUj8DrhpyJAZH_3cu2eN_P5gFBH5c3Az0blXA/edit?usp=sharing) |
+| 5 | CNN Fundamentals | [open](05_cnn_fundamentals/cnn_fundamentals_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/05_cnn_fundamentals/cnn_fundamentals_tutorial.ipynb) | [walkthrough](05_cnn_fundamentals/walkthrough.md) | [watch](https://docs.google.com/videos/d/1mfHPylhUj8DrhpyJAZH_3cu2eN_P5gFBH5c3Az0blXA/edit?usp=sharing) |
+| 6 | Modern CNN Architectures & Transfer Learning | [open](06_modern_cnn_architectures/modern_cnn_architectures_tutorial.ipynb) · [Colab](https://colab.research.google.com/github/NMemane1/CMPE258-Deep-Learning-Part2-Fundamentals/blob/main/06_modern_cnn_architectures/modern_cnn_architectures_tutorial.ipynb) | [walkthrough](06_modern_cnn_architectures/walkthrough.md) | [watch](https://docs.google.com/videos/d/1mfHPylhUj8DrhpyJAZH_3cu2eN_P5gFBH5c3Az0blXA/edit?usp=sharing) |
 
 ## What's in each notebook
 
